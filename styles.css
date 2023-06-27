@@ -158,3 +158,13 @@ main {
 #btn3:checked~.slider-inner .slides {
   transform: translate(-1360px);
 }
+nav a:hover{
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius:10px;
+}
+.tree:hover{
+  width: 400px;
+  height: 300px;
+}
